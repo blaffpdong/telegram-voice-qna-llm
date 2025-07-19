@@ -1,0 +1,22 @@
+{
+  "name": "interview-assistant-ai",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "python3 main.py",
+    "llm_processor": "python3 llm_processor.py",
+    "requirements": "pip3 install -r requirements.txt",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odlainepre/interview-assistant-ai.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odlainepre/interview-assistant-ai/issues"
+  },
+  "homepage": "https://github.com/odlainepre/interview-assistant-ai#readme",
+  "description": ""
+}

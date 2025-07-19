@@ -1,0 +1,8 @@
+# .gitignore for a project# Ignore Python bytecode files
+__pycache__/
+*.py[cod]
+*.gguf
+
+converted_audio/*
+.DS_Store
+.env
