@@ -71,7 +71,7 @@ The leading open-source solution, used in 90% of local ASR (Automatic Speech Rec
 
 **Key Features:**
 - Automatically detects language, adds punctuation, and capitalizes text (even for complex structures).
-- Supports 100+ languages, including Russian.
+- Supports 100+ languages.
 - Works fully offline after installation.
 - Multiple model sizes: from tiny (39 MB) for low-end PCs to large-v3 (10+ GB) for maximum accuracy.
 
